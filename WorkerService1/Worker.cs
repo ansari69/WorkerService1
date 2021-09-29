@@ -32,54 +32,34 @@ namespace WorkerService1
 
             while (!stoppingToken.IsCancellationRequested)
             {
-
-
                 try
                 {
-                    await aa();
+                    await UrlTest();
                 }
                 catch(Exception ex)
                 {
-                    _logger.LogError(ex , "sssssssssssssss");
-
+                    _logger.LogError(ex , "error");
                 }
                 finally
                 {
                     await Task.Delay(1000, stoppingToken);
-
                 }
-
-
             }
-
-
-
-
-
-
-
-
         }
 
 
-        private async Task aa()
+        private async Task UrlTest()
         {
-
-            var tasks = new List<Task>();
-
-            
+            var tasks = new List<Task>();    
             foreach(var url in urls)
             {
-                tasks.Add(bb(url));
+                tasks.Add(addUrl(url));
             }
-
             await Task.WhenAll(tasks);
-
         }
 
-        private async Task bb(string url)
+        private async Task addUrl(string url)
         {
-
             try
             {
                 var client = _httpClientFactory.CreateClient();
@@ -89,12 +69,10 @@ namespace WorkerService1
                     _logger.LogInformation("{Url} onlion ", url);
                 else
                     _logger.LogWarning("{Url} offline ", url);
-
             }
             catch(Exception ex)
             {
-                _logger.LogWarning(ex, "sssssssssssssss");
-
+                _logger.LogWarning(ex, "erore");
             }
 
         }
