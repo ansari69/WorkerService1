@@ -1,0 +1,20 @@
+{"Timestamp":"2021-09-28T03:17:01.8100904+03:30","Level":"Information","MessageTemplate":"Application started. Press Ctrl+C to shut down.","Properties":{"SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2021-09-28T03:17:02.0429883+03:30","Level":"Information","MessageTemplate":"Hosting environment: {envName}","Properties":{"envName":"Development","SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2021-09-28T03:17:02.0573554+03:30","Level":"Information","MessageTemplate":"Content root path: {contentRoot}","Properties":{"contentRoot":"E:\\c# asp project\\worker service\\WorkerService1\\WorkerService1","SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2021-09-28T03:17:04.7815546+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:06.2355103+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:07.6381038+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:09.0234402+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:10.4078904+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:11.7709773+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:13.1417272+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:14.5199506+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:15.9241799+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:17.4094259+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:18.8212703+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:20.2039378+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:21.5895204+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:22.9574878+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:24.3300628+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:25.6967296+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
+{"Timestamp":"2021-09-28T03:17:27.0620129+03:30","Level":"Information","MessageTemplate":"{Url} onlion ","Properties":{"Url":"https://www.google.com/","SourceContext":"WorkerService1.Worker"}}
